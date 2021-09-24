@@ -138,6 +138,3 @@ function reply_message_2($url, $post_header, $post_body)
 	curl_close($ch);
 	
 	return $result;
-}
-
-?>
